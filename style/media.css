@@ -1,0 +1,835 @@
+@media(max-width:1200px) {
+    .header__nav {
+        justify-content: space-between;
+    }
+
+    .paragraph {
+        padding-top: 100px;
+    }
+
+    .connect__icon {
+        padding: 0px 8px;
+    }
+
+    .connect__list {
+        flex-wrap: wrap;
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .footer__items {
+        padding-top: 47px;
+    }
+
+    .footer__items,
+    .footer__title {
+        padding-left: 11px;
+    }
+
+    .swiper {
+        max-width: 1100px;
+    }
+
+    .vedioss {
+        max-width: 340px;
+        width: 100%;
+        height: 250px;
+    }
+}
+
+@media(max-width:1100px) {
+    .swiper {
+        max-width: 1000px;
+    }
+
+    .course__btn {
+        width: 200px;
+        margin-top: 7px;
+        margin-bottom: 8px;
+    }
+
+    .swiper-slide {
+        text-align: none;
+    }
+
+    .course__table {
+        padding: 22px;
+    }
+
+    .swiper6 {
+        min-height: 500px;
+    }
+
+    .teacher__link {
+        font-size: 15px;
+    }
+
+    .title {
+        font-size: 16px;
+    }
+
+    .vedioss {
+        width: 280px;
+        height: 240px;
+    }
+
+    .swiper4 {
+        height: 310px;
+    }
+
+    .btn {
+        font-size: 10px;
+        line-height: 14px;
+        letter-spacing: none;
+    }
+
+    .nav__title {
+        font-size: 24px;
+    }
+
+    .nav__title {
+        column-gap: 20px;
+    }
+}
+
+@media(max-width:1024px) {
+    .vedioss {
+        width: 300px;
+        height: 220px;
+    }
+
+    .nav__title {
+        font-size: 23px;
+        line-height: 29px;
+    }
+
+    .nav__list {
+        column-gap: 20px;
+    }
+}
+@media(max-width:1064px){
+     .vedioss{
+         width: 280px;
+     }
+}
+@media(max-width:991px) {
+    .header{
+        min-height: 558px;
+    }
+    .swiper3 {
+        height: 415px;
+    }
+
+    .swiper2 {
+        height: 420px;
+    }
+
+    .swiper1 {
+        height: 320px;
+    }
+    .header__content {
+        margin-top: 50px;
+    }
+    .header__title {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .swiper {
+        max-width: 900px;
+    }
+
+    .text {
+        font-size: 13px;
+    }
+
+    .teacher__link {
+        font-size: 14px;
+    }
+
+    .swiper6 {
+        min-height: 476px;
+    }
+
+    .swiper4 {
+        height: 288px;
+    }
+
+    .title {
+        font-size: 14px;
+    }
+
+    .swiper1 {
+        height: 298px;
+    }
+    .vedioss {
+        display: flex;
+        justify-content: space-between;
+        max-width: 300px;
+        width: 100%;
+        height: 200px;
+    }
+ 
+}
+@media(max-width:967px) {
+    .teacher__link-1{
+        padding-bottom: 11px;
+        font-size: 15px;
+    }
+    .teacher__link {
+        font-size: 12px;
+    }
+    .header {
+        min-height: 500px;
+    }
+    .nav__list {
+        column-gap: 13px;
+    }
+
+    .nav__title {
+        font-size: 21px;
+        line-height: 26px;
+    }
+
+    .header__title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .header__content {
+        margin-top: 66px;
+    }
+
+    .course__table {
+        padding: 7px;
+    }
+
+    .swiper2 {
+        height: 383px;
+
+    }
+
+    .swiper {
+        max-width: 800px;
+    }
+
+    .title {
+        padding-top: 12px;
+        font-size: 12px;
+    }
+
+    .nav__logo {
+        width: 80px;
+    }
+
+    .text {
+        font-size: 12px;
+        padding-bottom: 13px;
+    }
+
+    .course__btn {
+        width: 173px;
+    }
+
+    .btn {
+        font-size: 8px;
+        line-height: 11px;
+    }
+
+    .swiper2 {
+        height: 338px;
+    }
+    .teacher__list{
+        padding-top: 4px;
+    padding-bottom: 28px;
+    row-gap: 5px;
+    }
+    .swiper3 {
+        height: 354px;
+    }
+
+}
+@media(max-width:860px){
+    .titleadd{
+        font-size: 13px;
+        height: 61px;
+    }
+    .footer__buttons{
+        flex-wrap: wrap;
+        row-gap: 15px;
+        justify-content: start;
+    }
+    .footer__btn{
+        font-size: 13px;
+        height: 43px;
+    }
+    .sent__btn{
+        padding: 18px 28px;
+        font-size: 12px;
+    }
+    .swiper3{
+        height: 342px;
+    }
+    .btn{
+        padding: 17px 31px;
+        font-size: 10px;
+    }
+    .swiper {
+        height: 340px;
+    }
+    .swiper6 {
+        min-height: 400px;
+    }
+    .header__text{
+        font-size: 21px;
+    }
+    .header__title {
+        font-size: 33px;
+        line-height: 30px;
+    }
+    .header__content {
+        margin-top: 43px;
+    }
+    .swiper {
+        height: 315px;
+    }    
+    .swiper4 {
+        height: 262px;
+    }
+    .paragraph {
+        padding-top: 65px;
+    }
+    .swiper1 {
+        height: 270px;
+    }
+    .menu-btn{
+        display: block;
+    }
+    .nav__list{
+        position: fixed;
+        flex-direction: column;
+        align-items: flex-end;
+        top: 0;
+        right: 0;
+        backdrop-filter: blur(30px);
+        height: 100vh;
+        padding: 15px;
+        box-shadow: 0 0 10px rgb(133, 133, 229);
+        transform: translateX(105%);
+        background: rgba(133, 133, 229, 0.322);
+        transition: .5s;
+        z-index: 100;
+    }
+    .nav__item{
+        padding: 10px;
+    }
+    .nav__link{
+        padding: 20px 0;
+    }
+    .menu-btn:focus+.nav__list{
+        transform: translateX(0%);
+    }
+}
+@media(max-width:768px){
+    /* .titleadd{
+        width: n;
+    } */
+    .paragraph{
+        padding-left: 90px;
+        padding-top: 36px;
+    }
+    .title {
+        padding-top: 9px;
+        font-size: 8px;
+    }
+    .course__title{
+        font-size: 14px;
+    }
+    .swiper4 {
+        height: 217px;
+    }
+    .swiper5{
+        height: 317px;
+    }
+    .teacher__link {
+        font-size: 11px;
+    }
+    .swiper3 {
+        height: 286px;
+    }
+    .news__title{
+        padding-bottom: 2px;
+            font-size: 14px;
+    }
+    .paragraph {
+        font-size: 29px;
+    }
+    .header__nav{
+        padding-top: 10px;
+    }
+    .footer__logo,
+    .nav__logo {
+        width: 70px;
+    }
+    .footer__name{
+        font-size: 20px;
+    }
+    .footer__text {
+        font-size: 13px;
+    }
+    .nav__title {
+        font-size: 20px;
+    }
+    .news__time {
+        font-size: 12px;
+        padding-bottom: 6px;
+    }
+    .swiper6 {
+        min-height: 200px;
+    }
+    .teacher__list {
+        padding-bottom: 14px;
+    }
+    .star{
+        padding-bottom: 15px;
+    }
+    .swiper1 {
+        height: 214px;
+    }
+    .course__btn {
+        height: 34px;
+        font-size: 8px;
+        width: 100%;
+    }
+        
+    .sent__btn {
+        height: 42px;
+        font-size: 12px;
+    }
+    .header {
+        min-height: 400px;
+    }
+    .header__text{
+        padding-bottom: 40px;
+        font-size: 19px;
+    }
+    .header__title {
+        font-size: 30px;
+    }
+    .btn{   
+    padding: 12px 36px;
+    }
+    .vedioss{
+        justify-content: center;
+        height: 163px;
+    }
+    .swiper {
+        max-width: 563px;
+    }
+    .photos__img {
+        width: 30%;
+    }
+    .header__content {
+        margin-top: 30px;
+    }
+    .footer__content {
+        text-align: center;
+        display: flex;
+        row-gap: 20px;
+        flex-direction: column;
+        padding-bottom: 25px;
+    }
+    .footer{
+        margin-top: 37px;
+    }
+}
+@media(max-width:620px){
+    .paragraph {
+        padding-left: 17px;
+    }
+    .swiper3 {
+        height: 270px;
+    }
+    .swiper4 {
+        height: 198px;
+    }
+    .header__title {
+        font-size: 26px;
+    }
+    .header__text {
+        padding-bottom: 36px;
+        font-size: 16px;
+    }
+    .header__content {
+        margin-top: 24px;
+    }
+    .header {
+        min-height: 366px;
+    }
+    .footer__logo,
+     .nav__logo {
+        width: 64px;
+    }
+    .nav__title {
+        font-size: 18px;
+    }
+    .vedioss{
+        height: 142px;
+    }
+    .footer__title {
+        padding-top: 25px;
+        padding-bottom: 10px;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .sent__btn,
+    .footer__btn{
+        height: 37px;
+    }
+    .footer__items {
+        padding-top: 29px;
+    }
+    .footer__buttons{
+        padding-bottom: 30px;
+    }
+
+}
+@media(max-width:575px){
+    .swiper {
+        max-width: 500px;
+    }
+    .swiper3 {
+        height: 238px;
+    }
+    .swiper5 {
+        height: 309px;
+    }
+    .swiper6 {
+        min-height: 280px;
+    }
+    .header__title {
+        font-size: 24px;
+        padding-bottom: 7px;
+    }
+    .header__text {
+        padding-bottom: 30px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .vedioss{
+        height: 120px;
+    }
+    .swiper4{
+        height: 174px;
+    }
+    .paragraph {
+        padding-left: 4px;
+        font-size: 26px;
+        padding-bottom: 15px;
+    }
+    .news__title {
+        font-size: 12px;
+    }
+    .swiper1 {
+        height: 197px;
+    }
+    .swiper2{
+        height: 298px;
+    }
+    .btn{
+        line-height: 8px;
+    }
+    .btn {
+        padding: 13px 23px;
+    }
+    .teacher__list{
+        row-gap: 0px;
+        padding-bottom: 7px;
+    }
+    .teacher__link{
+        font-size: 10px;
+    }
+    .swiper3 {
+        height: 248px;
+    }
+    .paragraph{
+        padding-left: 24px;
+        font-size: 23px;
+    }
+
+}
+@media(max-width:525px){
+    .header__title {
+        font-size: 20px;
+    }
+    .header__text {
+        padding-bottom: 25px;
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .header {
+        min-height: 300px;
+    }
+    .paragraph {
+        padding-left: 3px;
+    }
+    .swiper3 {
+        height: 281px;
+    }
+    .teacher__link{
+        font-size: 9px;
+    }
+.teacher__list{
+    height: 119px;
+    justify-content: space-evenly;
+    
+}
+.swiper5 {
+    height: 304px;
+}
+    .vedioss{
+        height: 120px;
+    }  
+    .swiper{
+        width: 477px;
+    }
+}
+@media(max-width:477px){
+    .vedioss{
+        height: 100px;
+    } 
+    .swiper{
+        width: 425px;
+    }
+    .swiper1 {
+        height: 189px;
+    }
+    .btn {
+        padding: 12px 18px;
+    }
+    .course__btn {
+        height: 31px;
+        font-size: 7px;
+    }
+    .news__title {
+        font-size: 11px;
+    }
+    .swiper3 {
+        height: 268px;
+    }
+    .swiper1 {
+        height: 183px;
+    }
+    .paragraph {
+        padding-left: 13px;
+    }
+    .swiper2 {
+        height: 287px;
+    }
+    .teacher__list{
+        padding: 10px;
+    }
+    .text {
+        font-size: 11px;    
+}
+.news__title {
+    font-size: 10px;
+}
+}
+@media(max-width:425px){
+    .vedioss{
+        height: 100px;
+    } 
+    .swiper{
+        width: 375px;
+    }
+    .footer__logo, .nav__logo {
+        width: 50px;
+    }
+    .nav__title {
+        font-size: 14px;
+    }
+    .header__title {
+        font-size: 17px;
+    }
+    .news__title{
+        font-size: 9px;
+}
+.news__time {
+    font-size: 10px;
+    }
+    .text {
+        font-size: 9px;
+    }
+    .btn {
+        padding: 6px 18px;
+    }
+    .course__btn {
+        height: 20px;
+        font-size: 5px;
+    }
+    .swiper2 {
+        height: 269px;
+    }
+    .swiper3 {
+        height: 274px;
+    }
+    .swiper5 img {
+        width: 58px;
+    }
+    .swiper5{
+        height: 277px;
+    }
+    .teacher__list {
+        height: 138px;
+    }
+    .news__title {
+        font-size: 8px;
+    }
+    .star {
+        padding-bottom: 6px;
+    }
+    .swiper6{
+        min-height: 200px;
+    }
+    .swiper1 {
+        height: 170px;
+    }
+    .paragraph {
+        
+        padding-top: 21px;
+    }
+    .header__text{
+        font-size: 16px;
+    }
+    .swiper4 {
+        height: 149px;
+    }
+}
+@media(max-width:375px){
+    .swiper{
+        width: 320px;
+    }
+    .swiper1 {
+        height: 160px;
+    }
+    .course__title {
+        font-size: 12px;
+    }
+ .nav__logo {
+        width: 40px;
+    }
+    .nav__title {
+        font-size: 11px;
+    }
+    .course__btn {
+        height: 21px;
+        line-height: 7px;
+        font-size: 4px;
+    }
+    .btn {
+        padding: 5px 18px;
+    }
+    .text {
+        padding-bottom: 3px;
+        font-size: 7px;
+        
+    }
+    .swiper2 {
+        height: 243px;
+    }
+    .news__title {
+        font-size: 9px;
+        line-height: 11px;
+    }
+    .titleadd{
+        font-size: 7px;
+        line-height: 13px;
+    }
+    .swiper3 {
+        height: 256px;
+    }
+    .swiper4 {
+        height: 129px;
+    }
+    .teacher__link {
+        font-size: 7px;
+    }
+    .stars{
+        width: 60px;
+    }
+    .news__time {
+        font-size: 7px;
+    }
+    .swiper6 {
+        min-height: 150px;
+    }
+    .connect__list {
+       align-items: start; 
+       row-gap: 15px;
+    }
+    .connect__link{
+        font-size: 12px;
+    }
+    .sent__btn{
+        height: 21px;
+    }
+    .footer__name {
+        font-size: 17px;
+    }
+    .footer__text {
+        font-size: 11px;
+    }
+    .footer__logo {
+        width: 60px;
+    }
+    .paragraph {
+        font-size: 18px;
+    }
+    .sweper {
+        height: 289px;
+    }
+    .addtitle{
+        padding-left: 5px;
+        font-size: 9px;
+    }
+    .vedioss{
+        height: 80px;
+    } 
+    .comment-title{
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .header__title {
+        font-size: 14px;
+    }
+    .header__text {
+        font-size: 11px;
+        line-height: 13px;
+    }
+    .menu::after{
+        top: 7px;
+    }
+    .menu::before{
+        top: -7;
+    }
+    .header__nav{
+        padding: 11px;
+    }
+    .header {
+        min-height: 244px;
+    }
+    .header__content {
+        margin-top: 9px;
+    }
+    .header__title{
+        padding-bottom: 0;
+    }
+    
+}
+@media(max-width:320px){
+    .footer__btn{
+        width: 100%;
+    }
+}
