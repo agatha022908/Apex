@@ -632,10 +632,13 @@
     }
     .text {
         font-size: 11px;    
-}
-.news__title {
+      }
+   .news__title {
     font-size: 10px;
-}
+    }
+    .sent__btn{
+     height:34px;
+     }
 }
 @media(max-width:425px){
     .vedioss{
@@ -644,7 +647,8 @@
     .swiper{
         width: 375px;
     }
-    .footer__logo, .nav__logo {
+    .footer__logo, 
+    .nav__logo {
         width: 50px;
     }
     .nav__title {
@@ -655,8 +659,8 @@
     }
     .news__title{
         font-size: 9px;
-}
-.news__time {
+    }
+   .news__time {
     font-size: 10px;
     }
     .text {
@@ -706,7 +710,14 @@
     .swiper4 {
         height: 149px;
     }
-}
+    .footer__buttons{
+    align-items: center;
+     }
+     .sent__btn{
+     height:25px;
+     }
+   }
+    
 @media(max-width:375px){
     .swiper{
         width: 320px;
