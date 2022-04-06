@@ -719,6 +719,9 @@
    }
     
 @media(max-width:375px){
+    .sent__btn{
+     height:20px;
+     }
     .swiper{
         width: 320px;
     }
